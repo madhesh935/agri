@@ -12,3 +12,6 @@ passlib[bcrypt]
 1234567rtezsdxfcfvgbh7675trdf
 
 this is feature 2.0
+# Optional dependencies for testing
+pytest          
+bug branch
