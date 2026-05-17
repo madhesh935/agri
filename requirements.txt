@@ -6,3 +6,6 @@ psycopg2-binary
 python-multipart
 python-jose[cryptography]
 passlib[bcrypt]
+
+# Optional dependencies for testing
+pytest          
