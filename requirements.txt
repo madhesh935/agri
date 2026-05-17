@@ -15,3 +15,5 @@ this is feature 2.0
 # Optional dependencies for testing
 pytest          
 bug branch
+
+qwertyuiop
