@@ -9,3 +9,4 @@ passlib[bcrypt]
 
 # Optional dependencies for testing
 pytest          
+bug branch
